@@ -113,7 +113,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 # Run Jupyter Notebook
 jupyter notebook
-
-## 🖼 Screenshot
+---
+##  Screenshot
 ![image alt](https://github.com/vishnuj29/Email-Detection/blob/d52aca0288b196bdbc3c0dff327e08e648b3fe46/Screenshot_2026-03-11_23_24_38.png)
 ![image alt](https://github.com/vishnuj29/Email-Detection/blob/ed290ba69b54a329d63233c093ef24847d402ead/Screenshot_2026-03-11_23_22_56.png)
