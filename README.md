@@ -98,7 +98,7 @@ Input Email:
 
 ## 🖥 Linux Commands Used
 
-``bash
+
 # Update system
 sudo apt update
 
